@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Satya Prakash [](https://portfolio-suite-nine.vercel.app/)
+![] I'm Satya Prakash [](https://portfolio-suite-nine.vercel.app/)
 ![](https://komarev.com/ghpvc/?username=omjaisatya&style=plastic)
 
 <!--
