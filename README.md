@@ -1,14 +1,11 @@
-<!-- ### Hi there -->
-
-<h2 align="center">Hi All👋</h2>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Satya%20Prakash&desc=I'm%20Developer&animation=twinkling&fontSize=50" />
-</p>
 
 
 <h1 align="center">Hi 👋, I'm Satya Prakash</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Satya%20Prakash&animation=twinkling&fontSize=50" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omjaisatya&label=Profile%20views&color=0e75b6&style=flat" alt="omjaisatya" /> </p>
 
@@ -40,14 +37,16 @@
 
 
 
-
+<!--
 ### I'm Satya Prakash [](https://portfolio-suite-nine.vercel.app/)
 ![](https://komarev.com/ghpvc/?username=omjaisatya&style=plastic)
 <div>
   <a href="https://portfolio-suite-nine.vercel.app/" target="_blank">View My Portfolio</a>
 </div>
+-->
 
 
+<!--
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -60,6 +59,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />
 </p>
+-->
 
 
 <!--
