@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omjaisatya" alt="omjaisatya" /></a> </p>
 
-- 🌱 I’m currently learning **Node Full Stack Developer**
+- 🌱 I’m currently learning **Node Full Stack Developement**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-suite-nine.vercel.app/](https://portfolio-suite-nine.vercel.app/)
 
