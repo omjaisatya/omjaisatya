@@ -7,9 +7,10 @@
 </p>
 
 
-<div align="center">
+
 ### I'm Satya Prakash [](https://portfolio-suite-nine.vercel.app/)
 ![](https://komarev.com/ghpvc/?username=omjaisatya&style=plastic)
+<div>
   <a href="https://portfolio-suite-nine.vercel.app/" target="_blank">View My Portfolio</a>
 </div>
 
