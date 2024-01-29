@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+<p align="center">Hi All</p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Satya%20Prakash&desc=I'm%20Developer&animation=fadeIn&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Satya%20Prakash&desc=I'm%20Developer&animation=twinkling&fontSize=50" />
 </p>
 
 ### I'm Satya Prakash [](https://portfolio-suite-nine.vercel.app/)
