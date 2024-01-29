@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 ### I'm Satya Prakash [](https://portfolio-suite-nine.vercel.app/)
 ![](https://komarev.com/ghpvc/?username=omjaisatya&style=plastic)
 
