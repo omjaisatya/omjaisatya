@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 
 
-<p align="center">Hi All</p>
+<h2 align="center">Hi All👋</h2>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Satya%20Prakash&desc=I'm%20Developer&animation=twinkling&fontSize=50" />
