@@ -6,11 +6,11 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Satya%20Prakash&desc=I'm%20Developer&animation=twinkling&fontSize=50" />
 </p>
 
-### I'm Satya Prakash [](https://portfolio-suite-nine.vercel.app/)
-![](https://komarev.com/ghpvc/?username=omjaisatya&style=plastic)
 
 <div align="center">
-  <a style="text-decoration:none; font-size:20px;color:white;" href="https://portfolio-suite-nine.vercel.app/" target="_blank">View My Portfolio</a>
+### I'm Satya Prakash [](https://portfolio-suite-nine.vercel.app/)
+![](https://komarev.com/ghpvc/?username=omjaisatya&style=plastic)
+  <a href="https://portfolio-suite-nine.vercel.app/" target="_blank">View My Portfolio</a>
 </div>
 
 
