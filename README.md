@@ -1,4 +1,4 @@
-### Hi there 
+<!-- ### Hi there -->
 
 <h2 align="center">Hi All👋</h2>
 
@@ -8,6 +8,10 @@
 
 ### I'm Satya Prakash [](https://portfolio-suite-nine.vercel.app/)
 ![](https://komarev.com/ghpvc/?username=omjaisatya&style=plastic)
+
+<div align="center">
+  <a href="https://portfolio-suite-nine.vercel.app/" target="_blank">View My Portfolio</a>
+</div>
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
