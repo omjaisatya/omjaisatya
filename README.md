@@ -10,7 +10,7 @@
 ![](https://komarev.com/ghpvc/?username=omjaisatya&style=plastic)
 
 <div align="center">
-  <a href="https://portfolio-suite-nine.vercel.app/" target="_blank">View My Portfolio</a>
+  <a style="text-decoration:none; font-size:20px;color:white;" href="https://portfolio-suite-nine.vercel.app/" target="_blank">View My Portfolio</a>
 </div>
 
 
