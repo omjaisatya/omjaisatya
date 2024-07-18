@@ -2,16 +2,15 @@
 
 <h1 align="center">Hi 👋, I'm Satya Prakash</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Satya%20Prakash&animation=twinkling&fontSize=50" />
 </p>
+-->
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWgydjVha2owdzE1aW02cXF4MnR5eXh1N3lnb3cwMGN6Z29hNmk2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
-
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWgydjVha2owdzE1aW02cXF4MnR5eXh1N3lnb3cwMGN6Z29hNmk2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omjaisatya&label=Profile%20views&color=0e75b6&style=flat" alt="omjaisatya" /> </p>
 
