@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Satya Prakash</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 <!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Satya%20Prakash&animation=twinkling&fontSize=50" />
