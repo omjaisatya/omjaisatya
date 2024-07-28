@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning **Node Full Stack Development**
 - Currently, I'm working on LexiBot <a href="https://github.com/omjaisatya/LexiBot.git">see here</a>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-suite-nine.vercel.app/](https://portfolio-suite-nine.vercel.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://portfolio-suite-nine.vercel.app/](https://portfolio-suite-nine.vercel.app/) -->
 
 - 💬 Ask me about **Frontend**
 
