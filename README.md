@@ -41,4 +41,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omjaisatya&" alt="omjaisatya" /></p>
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=omjaisatya)](https://git.io/streak-stats)
