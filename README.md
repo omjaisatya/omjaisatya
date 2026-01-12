@@ -74,4 +74,3 @@ AI-based chatbot with frontend integration and API handling
 ##  Connect With Me
 - LinkedIn: https://www.linkedin.com/in/satya-prakash451/
 - Instagram: https://instagram.com/omjaisatya
-- Email: satyaprakash451256@gmail.com
