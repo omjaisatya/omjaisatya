@@ -13,21 +13,16 @@
   <img src="https://komarev.com/ghpvc/?username=omjaisatya&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-
-
 ##  About Me
 - Full Stack Developer working with **React, Node.js, MongoDB**
 - Building real-world, production-oriented applications
 - Improving backend architecture, APIs, and scalability
 - Exploring **React Native** for cross-platform mobile apps
 
-
-
 ## Featured Project
 **LexiBot**  
 AI-based chatbot with frontend integration and API handling  
  https://github.com/omjaisatya/LexiBot
-
 
 
 ##  Tech Stack
