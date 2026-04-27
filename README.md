@@ -19,12 +19,6 @@
 - Improving backend architecture, APIs, and scalability
 - Exploring **React Native** for cross-platform mobile apps
 
-## Featured Project
-**LexiBot**  
-AI-based chatbot with frontend integration and API handling  
- https://github.com/omjaisatya/LexiBot
-
-
 ##  Tech Stack
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36"/>
