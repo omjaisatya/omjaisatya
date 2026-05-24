@@ -1,8 +1,10 @@
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Satya%20Prakash&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-</p>
 
-<p align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C83E0&center=true&vCenter=true&width=640&lines=Hey+there!+I'm+Satya+%F0%9F%91%8B;Full+Stack+MERN+Developer;React+%2B+Node.js+%2B+MongoDB;React+Native+%E2%80%94+Cross+Platform+Mobile;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+</a>
+
   <a href="https://www.linkedin.com/in/satya-prakash451/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -12,8 +14,12 @@
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=omjaisatya&label=Profile+Views&color=302b63&style=for-the-badge" />
-</p>
 
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=omjaisatya&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
+
+</div>
 
 ## About Me
 
@@ -80,6 +86,9 @@ I'm a **Full Stack Developer** passionate about building scalable, production-re
   </a>
 </p>
 
+## 3D Contribution Calendar
+
+![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## Contribution Snake
 
@@ -97,6 +106,9 @@ I'm a **Full Stack Developer** passionate about building scalable, production-re
   <img src="https://metrics.lecoq.io/omjaisatya?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKolkata" />
 </p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
