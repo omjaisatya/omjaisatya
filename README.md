@@ -82,13 +82,13 @@ I'm a **Full Stack Developer** passionate about building scalable, production-re
 
 <p align="center">
   <a href="https://github.com/omjaisatya/PingMonitor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omjaisatya&repo=PingMonitort&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c83e0&icon_color=ff6c37&text_color=c9d1d9" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omjaisatya&repo=PingMonitor&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c83e0&icon_color=ff6c37&text_color=c9d1d9" />
   </a>
 </p>
 
 ## 3D Contribution Calendar
 
-![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contribution Calendar](https://raw.githubusercontent.com/omjaisatya/omjaisatya/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ## Contribution Snake
 
